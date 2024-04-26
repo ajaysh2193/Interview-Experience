@@ -6,7 +6,7 @@
     1. Mutate 2d numpy array inplace with cutoff wherever there is value less than cutoff value
     2. We have a pandas dataframe with two column a and b. Return a new dataframe with those records where b = b_value alongwith other repeating value for column a.
 - Explain projects and past experience in brief
-- Theoretical questions on ML AND DL fundamentals
+- Theoretical questions on ML and DL fundamentals
   1. Difference between RNN and Feedforward neural network
   2. What does activation function do?
   3. What is stratified cross validation?
