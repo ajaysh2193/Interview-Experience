@@ -2,7 +2,7 @@
 
 ## Andela
 ### Technical interview (1 hr)
-- Two Coding questions bases on numpy array and pandas dataframe (30 min)
+- Two Coding questions based on numpy array and pandas dataframe (30 min)
     1. Mutate 2d numpy array inplace with cutoff wherever there is value less than cutoff value
     2. We have a pandas dataframe with two column a and b. Return a new dataframe with those records where b = b_value alongwith other repeating value for column a.
 - Explain projects and past experience in brief
