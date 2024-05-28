@@ -4,7 +4,7 @@
 ### Technical interview (1 hr)
 - Two Coding questions based on numpy array and pandas dataframe (30 min)
     1. Mutate 2d numpy array inplace with cutoff wherever there is value less than cutoff value
-       - Use boolean indexing to find elements less than cutoff and replace them; np.array[array < cutoff] = cutoff
+       - Use boolean indexing to find elements less than cutoff and replace them; array = np.array([[], []), array[array < cutoff] = cutoff
     2. We have a pandas dataframe with two column a and b. Return a new dataframe with those records where b = b_value alongwith other repeating value for column a.
        - filtered_df = df[df['b'] == b_value]
        - unique_a_values = filtered_df['a'].unique()
