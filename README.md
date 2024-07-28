@@ -40,4 +40,4 @@
 - How adjusted R2 square works and what is the purpose of using it?
 - When to use Precision and Recall?
 - There are four models - Linear Regression, Polynomial Regression, Random Forest. Target outcome lies between 0-5. Which model can generate prediction beyond 5?
-- Write a SQL query and pandas code also to find first and last date on which customer made purchase. There are 4 columns in a table - Cust ID, Purchase date, Store ID. I wanted to have four columns in output like Cust ID Store ID combo as well as first transaction date and last purchase date customer has made.
+- Write a SQL query and pandas code also to find the first and last purchase date on which customer made purchase. There are 3 columns in a table - Cust ID, Purchase date, Store ID. I wanted to have four columns in output like Cust ID Store ID combo as well as first transaction date and last purchase date customer has made.
